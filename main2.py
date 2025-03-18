@@ -1,4 +1,5 @@
 
+
 def sum (a,b):
     result = a + b
     return result
@@ -9,4 +10,8 @@ def null(a,b):
     return  a * b
 
 
-    
+
+result = sum (5,7)
+print(result)
+
+
